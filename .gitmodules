@@ -1,0 +1,6 @@
+[submodule "luci-app-ddns-go"]
+	path = luci-app-ddns-go
+	url = https://github.com/sirpdboy/luci-app-ddns-go
+[submodule "luci-app-socat"]
+	path = luci-app-socat
+	url = https://github.com/chenmozhijin/luci-app-socat.git
