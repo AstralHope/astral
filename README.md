@@ -12,6 +12,6 @@ echo "src-git astral https://github.com/AstralHope/openwrt-packages">>feeds.conf
 | 包名             | 用途                          |
 |:----------------:|:-----------------------------:|
 | luci-app-ddns-go | 支持Cloudflare的ddns          |
-| luci-app-socat   | Socat 工具，支持跨协议端口转发 |
+| luci-app-netspeedtest   | 内外网测速工具 |
 
 
